@@ -1,4 +1,4 @@
-![Screenshot 2024-04-26 211213](https://github.com/BhumireddyLakshmivardhanreddy/softweb/assets/148514637/2390dc43-57ee-4da4-99bc-8fe15956eab3)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:25.05.2024
 
 ## AIM:
